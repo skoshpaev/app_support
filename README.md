@@ -38,7 +38,7 @@ For support, bug reports, or suggestions, please contact:
 </p>
 
 <p>
-arhatsv@gmail.com
+skoshpaev.app.support@gmail.com
 </p>
 
 <h2>Privacy Policy</h2>
