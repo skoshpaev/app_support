@@ -1,5 +1,5 @@
 # Privacy Policy
-Schulte Focus Trainer does not collect, store, transmit, or share any personal information.
+Focus Challenge: Schulte does not collect, store, transmit, or share any personal information.
 
 The app does not require user registration.
 
